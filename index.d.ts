@@ -1,4 +1,4 @@
-declare module 'rabbitmq-lib' {
+declare module 'habesha-rabbitmq-lib' {
     import { Channel } from 'amqplib';
   
     export interface Config {
